@@ -1,0 +1,201 @@
+@media screen and (max-width:780px) {
+    #wrapper {
+        width: 100%;
+    }
+
+    body {
+        font-size: 9px;
+    }
+
+    header {
+        width: 100%;
+        font-size: 9px;
+    }
+
+    nav ul li {
+        margin: 1px;
+    }
+
+    .left-content {
+        width: 80%;
+        height: 400px;
+    }
+
+    .main-content {
+        width: 80%;
+    }
+    .right-content {
+        width: 80%;
+        height: 650px;
+    }
+
+    input[type=text] {
+        height: 20px;
+        margin-top: 5px;
+        width: 120px;
+        border-radius: 20px;
+        padding-left: 20px;
+    }
+
+    input[type=search] {
+        margin-left: 10px;
+        margin-top: 10px;
+        padding-left: 10px;
+        height: 15px;
+        width: 70px;
+    }
+
+    input[type=search]:focus {
+        width: 90px;
+        transition: 0.3s all ease;
+    }
+
+    input[type=submit] {
+        height: 15px;
+        margin-top: 10px;
+        border-radius: 5px;
+        width: 60px;
+        border: none;
+    }
+    
+
+    .post {
+        height: 260px;
+        width: 270px;
+    }
+}
+
+@media screen and (max-width:680px) {
+    #wrapper {
+        width: 100%;
+    }
+
+    body {
+        font-size: 8px;
+    }
+
+    header {
+        width: 100%;
+        font-size: 7px;
+    }
+
+    nav ul li {
+        margin: 1px;
+    }
+
+    .left-content {
+        width: 80%;
+        height: 400px;
+    }
+
+    .main-content {
+        width: 80%;
+    }
+    .right-content {
+        width: 80%;
+        height: 650px;
+    }
+
+    input[type=text] {
+        height: 20px;
+        margin-top: 5px;
+        width: 120px;
+        border-radius: 20px;
+        padding-left: 20px;
+    }
+
+    input[type=search] {
+        margin-left: 10px;
+        margin-top: 10px;
+        padding-left: 10px;
+        height: 15px;
+        width: 70px;
+    }
+
+    input[type=search]:focus {
+        width: 90px;
+        transition: 0.3s all ease;
+    }
+
+    input[type=submit] {
+        height: 15px;
+        margin-top: 10px;
+        border-radius: 5px;
+        width: 60px;
+        border: none;
+    }
+    
+
+    .post {
+        height: 260px;
+        width: 270px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    #wrapper {
+        width: 100%;
+        display: block;
+    }
+
+    body {
+        font-size: 9px;
+    }
+
+    header {
+        width: 100%;
+        font-size: 9px;
+    }
+
+    nav ul li {
+        margin: 1px;
+    }
+
+    .left-content {
+        width: 80%;
+        height: 400px;
+    }
+
+    .main-content {
+        width: 80%;
+    }
+    .right-content {
+        width: 80%;
+        height: 650px;
+    }
+
+    input[type=text] {
+        height: 20px;
+        margin-top: 5px;
+        width: 120px;
+        border-radius: 20px;
+        padding-left: 20px;
+    }
+
+    input[type=search] {
+        margin-left: 10px;
+        margin-top: 10px;
+        padding-left: 10px;
+        height: 15px;
+        width: 70px;
+    }
+
+    input[type=search]:focus {
+        width: 90px;
+        transition: 0.3s all ease;
+    }
+
+    input[type=submit] {
+        height: 15px;
+        margin-top: 10px;
+        border-radius: 5px;
+        width: 60px;
+        border: none;
+    }
+    
+
+    .post {
+        height: 260px;
+        width: 270px;
+    }
+}
